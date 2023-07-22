@@ -18,7 +18,7 @@
 
 [Основное меню](src/main/java/ToysPrize/Program.java)
 [Класс Toy](src/main/java/ToysPrize/Toy.java)
-[Класс ToyStore](src/main/java/ToysPrize/ToyStore.java)
+[Класс ToysStore](src/main/java/ToysPrize/ToysStore.java)
 [Класс SelectToys](src/main/java/ToysPrize/SelectToys.java)
 [Класс FileSave](src/main/java/ToysPrize/FileSave.java)
 [Файл выданных игрушек](prizeToys.txt)
